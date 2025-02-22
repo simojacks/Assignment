@@ -1,5 +1,3 @@
-EB3\56366\21 JACKSON MBUTHIA NJENGA
-
 # Factorial Calculator in C++
 
 This is a simple C++ program to calculate the factorial of a given number using recursion. The program also measures and displays the runtime of the factorial calculation.
