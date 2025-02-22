@@ -1,5 +1,3 @@
-EB3\56366\21 JACKSON MBUTHIA NJENGA
-
 # Fibonacci Sequence in C++
 
 This program calculates the Fibonacci sequence using both recursive and iterative approaches. It also measures and compares the runtime of both methods.
